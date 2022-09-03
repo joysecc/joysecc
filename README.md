@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working
+- 🌱 I’m currently learning
+- 💬 Ask me about fun fact:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joysecc&theme=tokyonight)](https://git.io/streak-stats)
