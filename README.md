@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **joysecc/joysecc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working
-- 🌱 I’m currently learning
-- 💬 Ask me about fun fact:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joysecc&theme=tokyonight)](https://git.io/streak-stats)
+<h1> Hi there 👋 </h1> </br>
+<p align="center">
+- 🔭 I’m currently working </br>
+- 🌱 I’m currently learning </br>
+- 💬 Ask me about fun fact </br>
+- 👍 yes </br>
+</br>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joysecc&theme=tokyonight"/></a>
+</p>
