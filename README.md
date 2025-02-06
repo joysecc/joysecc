@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything </br>
 - 👍 yes </br>
 </br>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=joysecc)](https://git.io/streak-stats)
 </p>
