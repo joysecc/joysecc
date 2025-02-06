@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <h1> Hi there 👋 </h1> </br>
 <p align="center">
-- 🔭 I’m currently working </br>
+- 🔭 I’m currently studying </br>
 - 🌱 I’m currently learning </br>
-- 💬 Ask me about fun fact </br>
+- 💬 Ask me about anything </br>
 - 👍 yes </br>
 </br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joysecc&theme=tokyonight"/></a>
