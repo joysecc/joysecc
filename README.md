@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything </br>
 - 👍 yes </br>
 </br>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joysecc&theme=tokyonight"/></a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=joysecc)](https://git.io/streak-stats)
 </p>
